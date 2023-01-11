@@ -1,5 +1,5 @@
 # Use the latest 2.1version of CircleCI pipeline process engine.
-# See: https:/crcle./c2/onatn-refer
+# See: https:/crcle./2/onatn-refer
 version: 2.1
 
 # Define a job to be invoked later in a workflow.
